@@ -4,6 +4,7 @@
  * It provides methods to simulate basic trolley behaviors.
  * 
  * @author Jacob
+ * @author ChatGPT (Code + Comments)
  */
 public class Trolley {
     // Instance variables

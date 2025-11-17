@@ -4,6 +4,7 @@
  * This class is used within the Trolley class.
  * 
  * @author Jacob
+ * @author ChatGPT (Code + Comments)
  */
 public class Amenities {
     private boolean hasAirConditioning;

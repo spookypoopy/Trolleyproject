@@ -3,6 +3,7 @@
  * Demonstrates constructors, methods, and toString outputs.
  * 
  * @author Jacob
+ * @author ChatGPT (Code + Comments)
  */
 public class TrolleyTester {
     public static void main(String[] args) {
